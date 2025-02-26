@@ -1,0 +1,10 @@
+{
+  "name": "mdbook-quiz",
+  "version": "0.1.0",
+  "description": "Interactive quizzes for Markdown",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
